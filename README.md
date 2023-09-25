@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelbourneDev
-- 👀 I’m interested in Java, Python and more . . .
-- 🌱 I’m currently studying IT so a whole array of subjects and disciplines. In my own times Im learning Java atm.
+- 👀 I’m interested in Kotlin, Java, Python, C#, SQL...
+- 🌱 I’m currently studying IT so a whole array of subjects and disciplines. 
 - 💞️ I’m looking to collaborate on anything, anything that will give me experience . . .
 - 📫 How to reach me, matthewalexanderwalton@gmail.com / photoofame on Discord.
 
