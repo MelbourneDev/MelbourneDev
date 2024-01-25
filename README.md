@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MelbourneDev
-- 👀 I’m interested in Kotlin, Java, Python, C#, SQL, Full stack development and Analysis.
+- 👀 I’m interested in Kotlin, Java, Python, C#, SQL, .NET, Android Studio, Spring JPA, Full stack development and Analysis.
 - 🌱 I’m currently studying IT so a whole array of subjects and disciplines. 
 - 💞️ I’m looking to collaborate on anything, anything that will give me experience . . .
 - 📫 How to reach me, matthewalexanderwalton@gmail.com / photoofame on Discord.
