@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MelbourneDev
 - 👀 I’m interested in Python, My/PostgreSQL, .NET, Android Studio, Spring JPA, Full stack development and Analysis.
 - 🌱 A recent graduate of web and mobile application development.
-- 💞️ A strong desire to become a .NET developer!
 - 📫 How to reach me, matthewalexanderwalton@gmail.com / photoofame on Discord.
 
 <!---
